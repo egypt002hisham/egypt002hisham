@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome! I'm Hisham (@egypt002hisham)</h1>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile" alt="Welcome banner" />
+  <img src="https://www.canva.com/design/DAGSV2JGa6o/vbBoYogn7Gf6OHFsPQ1N0Q/edit?utm_content=DAGSV2JGa6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Welcome banner" />
 </div>
 
 ---
